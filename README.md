@@ -13,6 +13,9 @@ This repository contains my notes, code snippets, and practice exercises while l
 - Error Handling
 - Libraries and Frameworks
 
+## Basics of Python
+
+
 ## Installation
 To run Python scripts, ensure you have Python installed.  
 Download Python from [python.org](https://www.python.org/) and install it.
