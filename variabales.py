@@ -18,3 +18,18 @@ x,y,z=fruits
 print(x)
 print(y)
 print(z)
+
+# global variables 
+print('---global variables---')
+globalInt = 2024
+globalStr = 'arif'
+def privateFnc():
+    print('this is from global : ', globalInt, globalStr)
+
+def globalChange():
+    global globalStr
+    globalStr = 'zakia'
+    print('here our changed global value : ', globalInt, globalStr)
+
+privateFnc()
+globalChange()
