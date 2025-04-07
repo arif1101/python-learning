@@ -1,13 +1,2 @@
-name = input('inter your name ')
-print(name)
-
-x = input()
-y = input()
-print(int(x)+int(y))
-
-age1 = 10
-age2 = 20
-print(age1+age2)
-
-name = 'arif'
-print(type(name))
+arr = [1,3,5,7,9,11,13,15,17,19,21]
+print(len(arr))
